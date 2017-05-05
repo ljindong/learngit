@@ -6,3 +6,4 @@ creating a new branch is quick and simple.
 add merge
 I am coding!
 This is fixed content!
+I am in dev branch!
